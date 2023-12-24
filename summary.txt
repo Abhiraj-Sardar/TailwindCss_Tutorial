@@ -1,0 +1,4 @@
+1.use this script inside <body> to include tailwind --
+<script src="https://cdn.tailwindcss.com"></script>
+
+2.
